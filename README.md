@@ -18,7 +18,6 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve algorithmic tasks on CodeWars and read tech articles.
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/eugene-galikbarov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 ---
 

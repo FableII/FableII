@@ -42,6 +42,4 @@ I am a Junior Fullstack Developer <img src="https://media.giphy.com/media/WUlplc
 ---
 
 ### ✍️ Blog Posts : 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 

@@ -37,6 +37,3 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FableII&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### ✍️ Blog Posts : 
-

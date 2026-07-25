@@ -1,39 +1,128 @@
+<div align="center">
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/eugene-galikbarov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+# Hi there 👋 I'm Eugene Galikbarov
 
-<!--  <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
+### Senior Frontend Engineer
 
-### About Me :
+Building scalable web applications with **React**, **TypeScript** and modern frontend architecture.
 
-I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eugene-galikbarov/)
+<!-- Add other contacts if you want -->
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](...) -->
+<!-- [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](...) -->
 
-- 🔭 I’m learning as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve algorithmic tasks on CodeWars and read tech articles.
-- 📫 How to reach me: 
+</div>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+# 👨‍💻 About Me
+
+I'm a Senior Frontend Engineer with **5+ years of commercial experience** building production web applications.
+
+Currently, I develop fintech products, focusing on scalable frontend architecture, microfrontends, performance optimization and developer experience.
+
+I enjoy solving engineering challenges rather than simply implementing UI.
+
+### Areas of interest
+
+- ⚛️ Frontend Architecture
+- 🏗 Microfrontends
+- ⚡ Performance Optimization
+- 🧩 Design Systems
+- 📦 Platform Engineering
+- 🚀 Developer Experience
+- ☁ Cloud-native Frontend
+- 📚 System Design
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,redux,js,html,css,sass,vite,webpack" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab" />
+</p>
+
+### Testing & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=jest,vscode,figma,postman" />
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FableII&theme=dark&background=000000)](https://git.io/streak-stats)
+# 🚀 What I Build
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FableII&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy working on products that require engineering decisions rather than only UI implementation.
+
+Typical areas where I like to contribute:
+
+- Scalable Frontend Architecture
+- Module Federation & Microfrontends
+- Performance Optimization
+- Design Systems
+- Shared UI Platforms
+- Build Infrastructure
+- Developer Tooling
+- CI/CD improvements
 
 ---
+
+# 🌱 Currently Learning
+
+- Advanced System Design
+- Backend Architecture with Node.js
+- Distributed Systems
+- Cloud Infrastructure
+- Software Architecture
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=FableII&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![](https://streak-stats.demolab.com?user=FableII&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FableII&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FableII&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 💡 Engineering Principles
+
+- Write code for people first.
+- Prefer simplicity over cleverness.
+- Optimize only after measuring.
+- Build reusable systems instead of isolated features.
+- Leave the codebase better than you found it.
+
+---
+
+# 🤝 Let's Connect
+
+If you're interested in frontend architecture, React ecosystem or building scalable web platforms, feel free to connect.
+
+- LinkedIn → https://www.linkedin.com/in/eugene-galikbarov/
